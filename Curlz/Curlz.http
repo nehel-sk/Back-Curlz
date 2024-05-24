@@ -1,0 +1,6 @@
+@Curlz_HostAddress = http://localhost:5122
+
+GET {{Curlz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
